@@ -11,10 +11,10 @@ public class Week3main {
         BookShop bs3 = new BookShop(113);
         bs3.setTitle("Java");
 
+
         bs3.setAuthor("Oracle");
         System.out.print(  bs1.toString());
         System.out.print(bs2.toString());
         System.out.print(bs3.toString());
 
-    }
-}
+    }}
